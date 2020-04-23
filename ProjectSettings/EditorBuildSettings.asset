@@ -4,5 +4,29 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Atanas/Scenes/MainMenu.unity
+    guid: b42b7daf10e3de04e86f95313ba20166
+  - enabled: 1
+    path: Assets/Combined/Scenes/Tutorials/Tutorial 1.unity
+    guid: e41801147f10d774fa924cfe01237e7e
+  - enabled: 1
+    path: Assets/Combined/Scenes/Tutorials/Tutorial 2.unity
+    guid: d84122401cb10a3489ba84f5c8d6aa6b
+  - enabled: 1
+    path: Assets/Combined/Scenes/Tutorials/Tutorial 3.unity
+    guid: f5b7715ddff8dc74ab3db9afc0b6455d
+  - enabled: 1
+    path: Assets/Atanas/Scenes/WinTutorial.unity
+    guid: 758fb2e012e700b4a9c3e09814208654
+  - enabled: 1
+    path: Assets/Atanas/Scenes/MainScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Atanas/Scenes/LoseGame.unity
+    guid: a1a8bd0a32117184e88b7f56449f10e7
+  - enabled: 1
+    path: Assets/Atanas/Scenes/WinGame.unity
+    guid: 674ff0c3449b8da48978ec8a34926343
   m_configObjects: {}

@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Monster
+  - Ground
+  - Building
+  - WeakPoint
+  - Tutorial
   - 
   - 
   - 
